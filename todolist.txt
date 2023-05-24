@@ -1,0 +1,5 @@
+finire il isGoal
+
+creare più livelli
+creare una interfaccia per restartare
+schermata per selezionare più livelli (esc = menù principale)
