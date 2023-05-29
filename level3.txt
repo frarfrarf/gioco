@@ -1,11 +1,14 @@
  PPPPPPPPP   
 P   +     PPPPPPPP
-P        §      +P
+P        §       P
 P §  P      §PPPPP
 P    P +     P
 P    P       P
 P    P   +§  PPPPP
 P    P £         P
-P  §    § +      P
-P  + PPPPPP      P
- PPPP      PPPPPPP
+P              § P
+P          P     P
+ PPPPPPPPPPPPPPPPP
+
+
+
