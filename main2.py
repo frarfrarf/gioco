@@ -234,6 +234,9 @@ def main():
     while True:
         screen.fill((0, 0 ,0))
         for event in pygame.event.get():
+            if event.type == QUIT:
+                pygame.quit()
+                sys.exit()
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_RIGHT:
                     move_right()
@@ -244,9 +247,6 @@ def main():
                 elif event.key == pygame.K_DOWN:
                     move_down()
                 elif event.key == pygame.K_ESCAPE:
-                    pygame.quit()
-                    sys.exit() 
-                elif event == QUIT:
                     pygame.quit()
                     sys.exit()
                 elif event.key == pygame.K_r:
