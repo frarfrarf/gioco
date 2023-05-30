@@ -7,5 +7,5 @@ P         PPPPPPPP
 P    PPP         P
 P      P§     §  P
 P     +P   PPPPPPP
-P  +++PPPPPP
+P  ++ PPPPPP
 PPPPPPP
